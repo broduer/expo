@@ -48,7 +48,7 @@
   "dependencies": {
     "@expo/config-plugins": "~5.0.0",
     "expo-dev-menu-interface": "0.7.2",
-    "semver": "^7.3.5"
+    "semver": "^6.3.1"
   },
   "devDependencies": {
     "@apollo/client": "^3.4.10",
@@ -63,7 +63,7 @@
     "expo-dev-client-components": "1.2.0",
     "expo-module-scripts": "^2.0.0",
     "fuse.js": "^6.4.6",
-    "graphql": "^15.3.0",
+    "graphql": "^15.9.0",
     "graphql-tag": "^2.10.1",
     "react": "18.0.0",
     "react-native": "0.69.5",
